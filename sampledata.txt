@@ -1,0 +1,4 @@
+netherlands|amsterdam|2
+belgium|brussels|1
+germany|berlin|3
+france|paris|0

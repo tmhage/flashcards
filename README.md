@@ -1,2 +1,2 @@
-# flashcards
+# Flashcards
 Console flashcard app
